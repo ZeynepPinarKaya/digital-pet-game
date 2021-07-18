@@ -1,0 +1,22 @@
+{
+  "name": "virtual_pet_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeynepPinarKaya/digital-pet-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeynepPinarKaya/digital-pet-game/issues"
+  },
+  "homepage": "https://github.com/ZeynepPinarKaya/digital-pet-game#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
