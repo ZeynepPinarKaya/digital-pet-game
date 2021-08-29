@@ -79,9 +79,9 @@ body {
   left: 160px;
 }
 
-.modal {
+.modal-inner {
   position: absolute;
-    top: 0;
+    top: -90px;
     left: 0;
     right: 0;
     background-color: blueviolet;
