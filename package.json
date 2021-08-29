@@ -4,19 +4,27 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZeynepPinarKaya/digital-pet-game.git"
   },
-  "author": "",
+  "author": "Zeynep Pınar Kaya",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ZeynepPinarKaya/digital-pet-game/issues"
   },
   "homepage": "https://github.com/ZeynepPinarKaya/digital-pet-game#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
-  }
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^2.3.2"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
 }
