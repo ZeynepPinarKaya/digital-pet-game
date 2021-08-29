@@ -81,11 +81,15 @@ body {
 
 .modal {
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  background-color: blueviolet;
-  color: wheat;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: blueviolet;
+    color: wheat;
+    padding: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 12px;
 }
 
 .modal:empty {
@@ -131,7 +135,7 @@ body {
 }
 
 .fox-sleep {
-  top: 251px;
+  top: 340px;
   left: 445px;
 }
 
